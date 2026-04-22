@@ -4,9 +4,9 @@ A curated list of JavaScript coding problems solved and sorted by interview prio
 
 ---
 
-## ✅ Top 20 Problems (Sorted by Priority)
+## ✅ Top 20 Problems
 
-### 🔴 Priority (Must Know)
+### 🔴 Priority 
 | # | Problem |
 |---|---------|
 | 1 | Contains Duplicate |
