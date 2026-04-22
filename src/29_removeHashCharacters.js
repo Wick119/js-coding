@@ -43,3 +43,25 @@ console.log(removeHashCharacters("A1#$@B2##C3D###2"));  // Output: "A$@2"
 console.log(removeHashCharacters("ABCD##E#F##GHI#J###KLMOZ####")); // Output: "ABGHK"
 console.log(removeHashCharacters("ABC###"));  // Output: ""
 console.log(removeHashCharacters("###ABC"));  // Output: "ABC"
+
+// 2nd Approach - less lines of code
+// function removeHashCharacters(input) {
+//     let stack = [], result = [];
+    
+//     for (let i = 0; i < input.length; i++) {
+//         if (input[i] === '#') {
+//             let hashCount = 0;
+//             while (i < input.length && input[i] === '#') { hashCount++; i++; }
+//             i--;
+//             while (hashCount-- > 0 && stack.length > 0) stack.pop();
+//             if (stack.length > 0) { result.push(stack.join("")); stack = []; }
+//         } else {
+//             stack.push(input[i]);
+//         }
+//     }
+
+//     if (stack.length > 0) result.push(stack.join(""));
+//     return result.join("");
+
+            
+// }
