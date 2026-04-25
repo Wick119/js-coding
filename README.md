@@ -1,6 +1,6 @@
 # Basic JavaScript Coding Practice
 
-A curated list of JavaScript coding problems solved and sorted by interview priority.
+A curated list of JavaScript coding problems solved and sorted by priority.
 
 ---
 
