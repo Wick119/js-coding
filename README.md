@@ -44,7 +44,7 @@ A curated list of JavaScript coding problems solved and sorted by priority.
 
 ---
 
-## 📋 Remaining Problems
+## 📋 Miscellaneous Problems
 
 | # | Problem |
 |---|---------|
