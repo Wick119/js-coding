@@ -1,0 +1,150 @@
+// Miscellaneous
+
+// 1 - Remove Duplicates
+
+// Input:
+nums = [1,2,2,3,4,4]
+// Output:
+[1,2,3,4]
+
+function removeDuplicates(nums) {
+
+}
+
+// ================================
+
+// 2 - First Non-Repeating Character
+
+// Input:
+str = "aabbcdd"
+// Output:
+"c"
+
+function firstUniqueChar(str) {
+
+}
+
+// =================================
+
+// 3 - Count Vowels
+
+// Input:
+str = "hello world"
+// Output:
+3
+
+function countVowels(str) {
+
+}
+
+// =================================
+
+// 4 - Reverse Words in Sentence
+
+// Input:
+str = "hello world"
+// Output:
+"world hello"
+
+function reverseWords(str) {
+
+}
+
+// =================================
+
+// 5 - Check Power of 2
+
+// Input:
+n = 16
+// Output:
+true
+
+// Input:
+n = 18
+// Output:
+false
+
+function isPowerOfTwo(n) {
+
+}
+
+// =================================
+
+// 6 - Sum of Digits
+
+// Input:
+n = 1234
+// Output:
+10
+
+function sumOfDigits(n) {
+
+}
+
+// =================================
+
+// 7 - Find Missing number
+
+// Input:
+nums = [1,2,4,5]
+// Output:
+3
+
+function findMissing(nums) {
+
+}
+
+// =================================
+
+// 8 - Capitalize First Letter
+
+// Input:
+str = "hello world"
+// Output:
+"Hello World"
+
+function capitalizeWords(str) {
+
+}
+
+// =================================
+
+// 9 - Check Prime Number
+
+// Input:
+n = 7
+// Output:
+true
+
+function isPrime(n) {
+
+}
+
+// =================================
+
+// 10 - Find Largest Number in Array
+
+// Input:
+nums = [10, 5, 20, 8]
+// Output:
+20
+
+function findMax(nums) {
+
+}
+
+// =================================
+
+// 11 - Convert Into Lower Case
+
+// Input:
+"HELLO"
+
+// Output:
+"hello"
+
+function toLowerCase(str) {
+
+}
+
+// ===============================
